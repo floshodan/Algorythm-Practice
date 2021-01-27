@@ -1,4 +1,3 @@
-
 word = input()
 max_len = 10
 
